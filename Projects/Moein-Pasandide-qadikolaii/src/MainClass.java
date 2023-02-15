@@ -15,6 +15,7 @@ public class MainClass extends PApplet {
     static int backgroundG = 125;
     static int backgroundB = 125;
     static int gameLives = 5;
+    static int justTestForGit = 3;
 
     static Ball ball = new Ball(5,5,252,223,0,200,180 , 20);
     Paddle paddle = new Paddle(200);
